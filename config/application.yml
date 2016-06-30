@@ -1,0 +1,6 @@
+application:
+  name: "Hblab Blog Golang"
+  secret: "dafdafd122"
+  domain:
+    web: abc.com
+    api: api.abc.com
