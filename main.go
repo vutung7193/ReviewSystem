@@ -2,7 +2,7 @@ package main
 //tes
 import (
 	"fmt"
-	"github.com/dieuhd/blog/app"
+	"bitbucket.org/hblabvn/go_base/app"
 )
 
 func main () {
